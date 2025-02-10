@@ -39,23 +39,24 @@ To run the Fish Game locally, follow these steps:
 <br>
 1. Clone the repository:
 
-    `git clone https://github.com/lmicovic/fish-game.git`
+    git clone https://github.com/lmicovic/fish-game.git
+    
 <br>
 2. Position to project file:
 
-    `cd fish-game`
+    cd fish-game
 
 <br>
 3. Install npm dependencies:
 
-    `npm install`
+    npm install
 
 <br>
 4. Run node.js project:
 
-    `npm run dev`
+    npm run dev
 
 <br>
 5. Open Game URL in Browser:
 
-    `http://localhost:8080/game`
+    http://localhost:8080/game
